@@ -17,6 +17,7 @@ Desktop: 1920 x 1080
     }
     section#login{
         width: 80vw;
+        height: 280px;
     }
     section#login > div#imagem{       
         float: left;
